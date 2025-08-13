@@ -1,0 +1,339 @@
+{
+  "id": 6143702466796,
+  "admin_graphql_api_id": "gid:\\/\\/shopify\\/Order\\/6143702466796",
+  "app_id": 580111,
+  "browser_ip": "49.36.100.6",
+  "buyer_accepts_marketing": false,
+  "cancel_reason": null,
+  "cancelled_at": null,
+  "cart_token": "hWN0LmiuZ3uBx93lvVg9Yfir",
+  "checkout_id": 36356266197228,
+  "checkout_token": "81b9b29d4a2acac2d71e3635c3979c2b",
+  "client_details": {
+    "accept_language": "en-IN",
+    "browser_height": null,
+    "browser_ip": "49.36.100.6",
+    "browser_width": null,
+    "session_hash": null,
+    "user_agent": "Mozilla\\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/128.0.0.0 Safari\\/537.36"
+  },
+  "closed_at": null,
+  "company": null,
+  "confirmation_number": "RDHFFT0EX",
+  "confirmed": true,
+  "contact_email": "deepak@thesnug.app",
+  "created_at": "2025-07-07T10:17:52-04:00",
+  "currency": "INR",
+  "current_shipping_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "current_subtotal_price": "0.00",
+  "current_subtotal_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "current_total_additional_fees_set": null,
+  "current_total_discounts": "0.00",
+  "current_total_discounts_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "current_total_duties_set": null,
+  "current_total_price": "0.00",
+  "current_total_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "current_total_tax": "0.00",
+  "current_total_tax_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "customer_locale": "en-IN",
+  "device_id": null,
+  "discount_codes": [],
+  "duties_included": false,
+  "email": "deepak@thesnug.app",
+  "estimated_taxes": false,
+  "financial_status": "paid",
+  "fulfillment_status": null,
+  "landing_site": "\\/password",
+  "landing_site_ref": null,
+  "location_id": null,
+  "merchant_business_entity_id": null,
+  "merchant_of_record_app_id": null,
+  "name": "#1003",
+  "note": null,
+  "note_attributes": [],
+  "number": 3,
+  "order_number": 1003,
+  "order_status_url": "https:\\/\\/catmocktest.com\\/76871106796\\/orders\\/49d68ed627628f9283c72c79218cf984\\/authenticate?key=e334c536b3960279cd260edf696c5efc",
+  "original_total_additional_fees_set": null,
+  "original_total_duties_set": null,
+  "payment_gateway_names": [],
+  "phone": null,
+  "po_number": null,
+  "presentment_currency": "INR",
+  "processed_at": "2025-07-07T10:17:51-04:00",
+  "reference": null,
+  "referring_site": null,
+  "source_identifier": null,
+  "source_name": "web",
+  "source_url": null,
+  "subtotal_price": "0.00",
+  "subtotal_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "tags": "",
+  "tax_exempt": false,
+  "tax_lines": [],
+  "taxes_included": false,
+  "test": false,
+  "token": "49d68ed627628f9283c72c79218cf984",
+  "total_cash_rounding_payment_adjustment_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "total_cash_rounding_refund_adjustment_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "total_discounts": "0.00",
+  "total_discounts_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "total_line_items_price": "0.00",
+  "total_line_items_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "total_outstanding": "0.00",
+  "total_price": "0.00",
+  "total_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "total_shipping_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "total_tax": "0.00",
+  "total_tax_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "INR"
+    }
+  },
+  "total_tip_received": "0.00",
+  "total_weight": 0,
+  "updated_at": "2025-07-07T10:17:53-04:00",
+  "user_id": null,
+  "billing_address": {
+    "first_name": "Deepak",
+    "address1": "Annapurna Heights",
+    "phone": null,
+    "city": "Mira Bhayandar",
+    "zip": "401105",
+    "province": "Maharashtra",
+    "country": "India",
+    "last_name": "Garg",
+    "address2": "Bhayandar east",
+    "company": null,
+    "latitude": 19.3002429,
+    "longitude": 72.8695692,
+    "name": "Deepak Garg",
+    "country_code": "IN",
+    "province_code": "MH"
+  },
+  "customer": {
+    "id": 8319812141292,
+    "email": "deepak@thesnug.app",
+    "created_at": "2025-07-05T08:41:48-04:00",
+    "updated_at": "2025-07-07T10:17:53-04:00",
+    "first_name": "Deepak",
+    "last_name": "Garg",
+    "state": "disabled",
+    "note": null,
+    "verified_email": true,
+    "multipass_identifier": null,
+    "tax_exempt": false,
+    "phone": null,
+    "currency": "INR",
+    "tax_exemptions": [],
+    "admin_graphql_api_id": "gid:\\/\\/shopify\\/Customer\\/8319812141292",
+    "default_address": {
+      "id": 9713191485676,
+      "customer_id": 8319812141292,
+      "first_name": "Deepak",
+      "last_name": "Garg",
+      "company": null,
+      "address1": "Annapurna Heights",
+      "address2": "Bhayandar east",
+      "city": "Mira Bhayandar",
+      "province": "Maharashtra",
+      "country": "India",
+      "zip": "401105",
+      "phone": null,
+      "name": "Deepak Garg",
+      "province_code": "MH",
+      "country_code": "IN",
+      "country_name": "India",
+      "default": true
+    }
+  },
+  "discount_applications": [],
+  "fulfillments": [],
+  "line_items": [
+    {
+      "id": 14774992896236,
+      "admin_graphql_api_id": "gid:\\/\\/shopify\\/LineItem\\/14774992896236",
+      "attributed_staffs": [],
+      "current_quantity": 1,
+      "fulfillable_quantity": 1,
+      "fulfillment_service": "manual",
+      "fulfillment_status": null,
+      "gift_card": false,
+      "grams": 0,
+      "name": "CAT 2025 Mock Test - Trial",
+      "price": "0.00",
+      "price_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "INR"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "INR"
+        }
+      },
+      "product_exists": true,
+      "product_id": 8944028614892,
+      "properties": [],
+      "quantity": 1,
+      "requires_shipping": false,
+      "sales_line_item_group_id": null,
+      "sku": null,
+      "taxable": false,
+      "title": "CAT 2025 Mock Test",
+      "total_discount": "0.00",
+      "total_discount_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "INR"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "INR"
+        }
+      },
+      "variant_id": 46609683611884,
+      "variant_inventory_management": null,
+      "variant_title": "Trial",
+      "vendor": "CatMockTest",
+      "tax_lines": [
+        {
+          "channel_liable": false,
+          "price": "0.00",
+          "price_set": {
+            "shop_money": {
+              "amount": "0.00",
+              "currency_code": "INR"
+            },
+            "presentment_money": {
+              "amount": "0.00",
+              "currency_code": "INR"
+            }
+          },
+          "rate": 0.18,
+          "title": "IGST"
+        }
+      ],
+      "duties": [],
+      "discount_allocations": []
+    }
+  ],
+  "payment_terms": null,
+  "refunds": [],
+  "shipping_address": null,
+  "shipping_lines": [],
+  "returns": []
+}

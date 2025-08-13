@@ -1,0 +1,26 @@
+body{ background-color: #fff; margin:0; padding:0; }
+
+a{ color:#000; text-decoration: underline; }
+
+.logo{ color:#D6072A; line-height: 1.15; letter-spacing: 3.5px; }
+
+@media(max-width: 700px){
+    .copyright{ font-size: 11px; }
+}
+
+.headerCont { margin: 10px auto; position: absolute; text-align: center; }
+.aboutPage { margin: 0 auto; padding: 20px 25px; width: 85%; }
+.aboutPage ul { padding-left: 50px; }
+.aboutPage ul li { list-style-type: disc; }
+.aboutPage .apRight { background: #fff; width: 100%; }
+.aboutPage .apRight h2 { text-align: left; margin: 0px 0px 10px 0px; font-size: 20px; }
+.aboutPage .apRight h3 { margin: 10px 0px 0px 0px; }
+.aboutPage .apRight p { padding: 0px 0px 10px 0px; }
+
+body{
+    font-family: "Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size : 19px;
+    padding:0px;
+    margin:0px;
+
+  }

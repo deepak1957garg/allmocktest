@@ -1,0 +1,308 @@
+/* vk */
+.home-container .featured_by .featured_by_inner a img{
+
+  width: 98px;
+}
+.featured_by_inner {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+.inner_head {
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+  position: relative;
+  top: -55px;
+}
+
+.press_release_box .card {
+  height: 100%;
+  padding-bottom: 30px;
+  border-radius: 10px;
+  border: none;
+}
+
+.contactus h1 {
+  font-size: 28px !important;
+  font-family: "SFUIDisplay-Bold";
+}
+
+.press_release_box h3 {
+  font-size: 17px;
+  font-weight: 600;
+  color: #000;
+  line-height: 22px;
+  text-align: left;
+  display: inline-block;
+  margin-bottom: 18px;
+}
+
+.press_release_box p {
+  font-size: 15px;
+  color: #000;
+  text-align: left;
+}
+
+.press_text {
+  max-height: 198px;
+  overflow-y: hidden;
+  margin-bottom: 18px;
+  position: relative;
+}
+
+.press_release_box .card a {
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  color: #0064D5;
+  display: block;
+}
+
+.press_release_box h5 span {
+  color: #4F4F4F;
+  font-size: 13px;
+  float: right;
+  padding: 2px 0px;
+}
+
+.box_logo {
+  margin-bottom: 10px;
+  width: 100%;
+  display: inline-block;
+}
+
+.press_release_box .card-img-top {
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.press_release_box .card a:hover {
+  color: #000;
+}
+
+.press_box_img {
+  float: left;
+  max-width: 100px;
+  max-height: 18px;
+  object-fit: cover;
+}
+
+.press_release_box .col-md-4 {
+  margin-bottom: 20px;
+}
+
+.card-img-top iframe {
+  border-radius: 10px;
+  height: 174px;
+}
+
+.social_media {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.social_media ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social_media li {
+  float: left;
+  margin-right: 12px;
+}
+
+.social_media li a img {
+  max-width: 28px;
+}
+
+.reset {
+  clear: both;
+}
+
+.mail_section {
+  padding: 50px 0px 0px;
+  font-size: 23px;
+  text-align: center;
+}
+
+.logos {
+  max-width: 78px;
+  display: inline-block;
+  padding: 30px 0px 28px;
+}
+
+.mail_section a {
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.notfound {
+  max-width: 458px;
+  text-align: center;
+  margin: auto;
+}
+
+.notfound-404 .logos {
+  display: inline-block;
+  margin: auto;
+}
+
+.notfound-404 h2 {
+  margin: 26px 0px;
+}
+
+.rtn_bt {
+  background: #000;
+  padding: 10px 15px;
+  border-radius: 6px;
+  margin-top: 10px;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+}
+
+.rtn_bt:hover {
+  background: #202020;
+  color: #fff;
+}
+
+.not_img {
+  padding: 10px;
+}
+
+.contactus .form-control .control input {
+  height: 50px
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  width: 100%;
+  padding-right: var(--bs-gutter-x, .75rem);
+  padding-left: var(--bs-gutter-x, .75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.contactus {
+  padding-bottom: 25px !important;
+}
+
+/* #dots {
+  position: absolute;
+  background: #fff;
+  right: 0;
+  padding: 0px 0px;
+  bottom: 0;
+} */
+
+#more {
+  display: none;
+}
+
+.news_video_section {
+  text-align: left;
+
+}
+
+.news_video_section h2 {
+  font-size: 30px;
+  color: #000;
+  font-weight: 600;
+  padding: 0px 0px 20px;
+  margin: 0;
+}
+
+.news_video_section p {
+  text-align: left;
+
+}
+
+.news_video_inner iframe {
+  border-radius: 10px;
+}
+
+.news_read_bt {
+  position: absolute;
+  width: 89% !important;
+  bottom: 10px;
+  color: #0064D5;
+  display: block;
+}
+
+.ndtv_logo {
+  width: 120px;
+  height: auto;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.featured_by_inner a img {
+
+  margin-right: 22px;
+  margin-bottom: 15px;
+}
+
+.featured_by {
+  display: inline-block;
+  margin-top: 45px;
+}
+
+@media (min-width: 678px) and (max-width: 900px) {
+  .press_box_img {
+    max-width: 80px;
+
+  }
+}
+
+@media (min-width: 320px) and (max-width: 468px) {
+  .footer-sec-right {
+    text-align: center;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 610px) {
+  .inner_head {
+    margin-top: 24px;
+    top: -18px
+  }
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+  .social_media ul {
+    list-style: none;
+    /* width: 195px; */
+    margin: auto;
+    display: inline-block;
+  }
+
+  .social_media {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .mail_section a {
+    margin-left: 0;
+    width: 100%;
+    display: block;
+  }
+
+  .featured_by {
+    display: block;
+    text-align: center;
+  }
+
+  .featured_by_inner a img {
+    margin-left: 11px;
+    margin-right: 11px;
+  }
+}
+
+.entrepre-logo
+{
+  position: relative;
+  top:6px;
+}

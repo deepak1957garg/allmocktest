@@ -1,0 +1,44 @@
+<div id="my-php-app-widget">
+  <h3>My PHP App Data</h3>
+  
+  <div id="app-data-container">
+    Loading data from PHP server...
+  </div>
+  
+  <button id="refresh-data">Refresh Data</button>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Function to fetch data from PHP server
+  function fetchData() {
+    fetch('https://your-ngrok-url.ngrok.io/api/data.php', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        shop: '{{ shop.permanent_domain }}'
+      })
+    })
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('app-data-container').innerHTML = `
+        <p>Data received: ${data.message}</p>
+        <p>Current value: ${data.value}</p>
+        <p>Timestamp: ${data.timestamp}</p>
+      `;
+    })
+    .catch(error => {
+      console.error('Error:', error);
+      document.getElementById('app-data-container').innerHTML = 'Error loading data';
+    });
+  }
+  
+  // Initial load
+  fetchData();
+  
+  // Refresh button click
+  document.getElementById('refresh-data').addEventListener('click', fetchData);
+});
+</script>

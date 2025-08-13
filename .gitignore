@@ -1,0 +1,9 @@
+.DS_Store
+includes/config/
+includes/db.php
+vendor/
+*.bak
+composer.json
+composer.lock
+uploads/
+error.log

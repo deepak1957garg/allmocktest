@@ -1,0 +1,15 @@
+<?php
+include_once dirname(__FILE__) . '/../../general/models/DataModel.php';
+
+class TopicStats extends DataModel{
+
+	public function __construct(){
+		$this->table_name = 'topic_stats';
+		$this->primary_key = 'id';
+
+		$this->datamodel['id'] = "0";
+		$this->datamodel['topic_id'] = "";
+		$this->datamodel['difficulty'] = "NONE";
+		$this->datamodel['num_ques'] = "0";
+	}
+}
